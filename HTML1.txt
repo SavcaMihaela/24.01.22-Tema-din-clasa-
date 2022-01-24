@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>,,<b>Iart&#258</b>, c&#258 nu-i <i>greu!</i>"</title>
+  </head>
+  <div style="font-family:'Arial Black';">
+    <h3><b>Iart&#258</b></h3> </div></div>
+
+    <body style="background-color:#C0C0C0;">
+    <div style="font-family:'Arial Black';">
+    <div style="text-align:center;">
+    <h2>POEZII</h2> </div><br>
+    div style="text-align:center;">
+    <div style="color:#000000;">
+         C&#226nd un frate &#238&#355i gre&#351e&#351te<br>
+         R&#259scolind sufletul t&#259u,<br>
+         Ia-l &#238n bra&#355e &#351i-i z&#226mbe&#351te<br>
+         <b>Iart&#259-l</b>, c&#259 nu este <i>greu!</i><br>
+         <br></div> </div>
+    <div style="font-family:'Arial Black';">
+    <div style="text-align:center;">
+    <div style="color:#000000;">
+         C&#226nd p&#259rintele te ceart&#259<br>
+         Nu g&#226ndi c&#259-i cel mai r&#259u,<br>
+         Crede-i vorba &#238n&#355eleapt&#259<br>
+         <b>Iarta-i gestul</b>, c&#259 nu-i <i>greu!</i><br>
+         <br> </div> </div>
+    <div style="font-family:'Arial Black';">
+    <div style="text-align:center;">
+    <div style="color:#000000;">
+         C&#226nd un seam&#259n oarecare<br>
+         R&#259u &#238&#355i face tot mereu,<br>
+         Tu nu-l judeca prea tare<br>
+         <b>Iart&#259-i firea</b>, c&#259 nu-i <i>greu!</i><br>
+         </div>
+               </body>
+</html>
